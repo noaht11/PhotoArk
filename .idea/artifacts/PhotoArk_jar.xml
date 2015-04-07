@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PhotoArk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PhotoArk_jar</output-path>
+    <root id="archive" name="PhotoArk.jar">
+      <element id="module-output" name="PhotoArk" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/metadata-extractor-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/JLicense_v2.0_Distribute.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/xmpcore-5.1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
