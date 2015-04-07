@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JLicense_v2.0_Distribute">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/JLicense_v2.0_Distribute.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

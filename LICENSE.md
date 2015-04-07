@@ -1,0 +1,1 @@
+All code that is not part of an existing library is Copyright (C) 2015 Noah Tajwar. All rights reserved.
